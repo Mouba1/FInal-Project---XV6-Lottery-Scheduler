@@ -1,4 +1,4 @@
-# FInal-Project---XV6-Lottery-Scheduler
+# Final-Project---XV6-Lottery-Scheduler
 
 ## Overview
 
